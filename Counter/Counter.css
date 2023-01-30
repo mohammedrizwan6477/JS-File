@@ -1,0 +1,41 @@
+*{
+    background-color: skyblue;
+}
+.main h1{
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.counter-preview{
+    margin-left: 650px;
+    font-size: 50px;
+}
+.buttons{
+    margin-left: 480px;
+}
+.decrement{
+    width: 125px;
+    height: 30px;
+    border: none;
+    background-color: green;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.reset{
+    width: 125px;
+    height: 30px;
+    border: none;
+    background-color: rgb(248, 109, 16);
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.increment{
+    width: 125px;
+    height: 30px;
+    border: none;
+    background-color: rgb(34, 34, 245);
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
